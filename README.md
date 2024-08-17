@@ -1,1 +1,1 @@
-# Comic-page-generator
+# Comics
